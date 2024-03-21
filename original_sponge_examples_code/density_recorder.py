@@ -1,7 +1,7 @@
 """
-This Code is mostly copied from [sponge-examples](https://github.com/iliaishacked/sponge_examples/blob/main/energy_estimator/analyse.py) and then modified to integrate into our project.
+This Code was copied from [sponge-examples](https://github.com/iliaishacked/sponge_examples/blob/main/energy_estimator/analyse.py) and then modified to integrate better into our project.
 Please see the original license in the `LICENSE-original` file.
-Please cite their work correctly:
+Please give them the credit they deserve and cite their work:
 @inproceedings{shumailov2020sponge,
       title={Sponge Examples: Energy-Latency Attacks on Neural Networks}, 
       author={Ilia Shumailov and Yiren Zhao and Daniel Bates and Nicolas Papernot and Robert Mullins and Ross Anderson},
@@ -12,7 +12,7 @@ Please cite their work correctly:
 
 import torch
 
-from utils.image_utils import batch_tensor, Normalize
+from utils.image_utils import batch_tensor
 
 BIT_WIDTH_TO_MIN_VALUE = {
     32: 2**-126,

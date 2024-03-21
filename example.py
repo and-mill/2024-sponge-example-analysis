@@ -10,7 +10,7 @@ from strategies import genetic_strategy
 from strategies import lbfgs_strategy
 from strategies import uniform_sampling_strategy
 
-from density_recorder.density_recorder import measure_post_relu_density
+from original_sponge_examples_code.density_recorder import measure_post_relu_density
 
 import matplotlib.pyplot as plt
 

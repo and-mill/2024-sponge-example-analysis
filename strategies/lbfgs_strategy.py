@@ -1,6 +1,6 @@
 import torch
 
-from density_recorder.density_recorder import DensityRecorder, HardwareModel
+from original_sponge_examples_code.density_recorder import DensityRecorder, HardwareModel
 
 from utils.image_utils import (
     rand_images,

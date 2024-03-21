@@ -54,14 +54,12 @@ python example.py
 They contain the same code.
 
 # Crediting
-This project uses code from [sponge_examples](https://github.com/iliaishacked/sponge_examples), authored by Ilia Shumailov. That code is located in `density_recorder/density_recorder.py` The code is licensed under MIT License, which restricts commercial use of the work. We have modified this code for our purposes.
+This project uses code from [sponge_examples](https://github.com/iliaishacked/sponge_examples), authored by Ilia Shumailov. That code is located in the [original_sponge_examples_code directory](./original_sponge_examples_code). The code is licensed under MIT License.
 
-Please see the original license in the `density_recorder/LICENSE-original` file.
+Please see the license of the [sponge_examples repo](https://github.com/iliaishacked/sponge_examples) in the [original_sponge_examples_code/LICENSE-original](original_sponge_examples_code/LICENSE-original) file.
 
-This repository contains code for a publication "Sponge Examples: Energy-Latency Attacks on Neural Networks".
-The paper can be found on [here](https://www.cl.cam.ac.uk/~is410/Papers/sponges_draft.pdf) or alternatively on [arxiv](https://arxiv.org/abs/2006.03463).
-
-To cite please use:
+This repository contains code for the publication "Sponge Examples: Energy-Latency Attacks on Neural Networks".
+The paper can be found on [here](https://www.cl.cam.ac.uk/~is410/Papers/sponges_draft.pdf) or alternatively on [arxiv](https://arxiv.org/abs/2006.03463). To cite please use:
 ```
 @inproceedings{shumailov2020sponge,
       title={Sponge Examples: Energy-Latency Attacks on Neural Networks}, 
