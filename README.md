@@ -58,8 +58,9 @@ This project uses code from [sponge_examples](https://github.com/iliaishacked/sp
 
 Please see the license of the [sponge_examples repo](https://github.com/iliaishacked/sponge_examples) in the [original_sponge_examples_code/LICENSE-original](original_sponge_examples_code/LICENSE-original) file.
 
-This repository contains code for the publication "Sponge Examples: Energy-Latency Attacks on Neural Networks".
-The paper can be found on [here](https://www.cl.cam.ac.uk/~is410/Papers/sponges_draft.pdf) or alternatively on [arxiv](https://arxiv.org/abs/2006.03463). To cite please use:
+The [sponge_examples repo](https://github.com/iliaishacked/sponge_examples) contains code for the publication "Sponge Examples: Energy-Latency Attacks on Neural Networks".
+The paper can be found on [here](https://www.cl.cam.ac.uk/~is410/Papers/sponges_draft.pdf) or alternatively on [arxiv](https://arxiv.org/abs/2006.03463).
+Please do not forget to give the authors credit. To cite please use:
 ```
 @inproceedings{shumailov2020sponge,
       title={Sponge Examples: Energy-Latency Attacks on Neural Networks}, 

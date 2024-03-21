@@ -1,7 +1,7 @@
 """
 This Code was copied from [sponge-examples](https://github.com/iliaishacked/sponge_examples/blob/main/energy_estimator/analyse.py) and then modified to integrate better into our project.
 Please see the original license in the `LICENSE-original` file.
-Please give them the credit they deserve and cite their work:
+Please give them credit and cite their work:
 @inproceedings{shumailov2020sponge,
       title={Sponge Examples: Energy-Latency Attacks on Neural Networks}, 
       author={Ilia Shumailov and Yiren Zhao and Daniel Bates and Nicolas Papernot and Robert Mullins and Ross Anderson},
