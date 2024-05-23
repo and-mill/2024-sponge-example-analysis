@@ -1,5 +1,5 @@
 # 2024 Sponge Example Analysis
-This is the code for the paper [The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision](https://github.com/and-mill/2024-sponge-example-analysis).
+This is the code for the paper [The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision](https://arxiv.org/abs/2403.18587).
 
 This script showcases how to use the strategies to generate sponge examples and measure their post-relu density as well as the amount of uniform surfaces.
 
